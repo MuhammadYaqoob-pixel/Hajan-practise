@@ -51,11 +51,11 @@
                     cout << "Result: " << num1 / num2;
                 else
                     cout << "Error: Division by zero!";
-                break;
+                break;                              
             default:
                 cout << "Invalid choice! Please enter a number between 1 and 4.";
         }
     
         return 0;
-    }
-    
+    }           
+                        
